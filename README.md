@@ -13,13 +13,13 @@ This repo contains only my Jupyter Notebook with the working analysis I did for 
 
 ### Summary of results
 My Medium post poses three questions:
-##### How have sales prices and sales volumes changed over time? 
+#### How have sales prices and sales volumes changed over time? 
 Prices have grown monotonically, sales volumes nose-dived between 2008 and 2013. 
 
-##### Which type of residential properties are in demand?
+#### Which type of residential properties are in demand?
 Apartments are the most popular residential property type in the UK at the moment. The volumes of sales are higher than the rest of the housing types and the prices have appreciated the most since the 1995 levels.
 
-##### Do large metropolitan areas skew the house sales data? Do they outpase the overall median figures?
+#### Do large metropolitan areas skew the house sales data? Do they outpase the overall median figures?
 London skews the figures the most - the median property is times higher than the median in the rest of the country and the sales volumes follow completely different trends. 
 
 ##### Acknowledgement 
