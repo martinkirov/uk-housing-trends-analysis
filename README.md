@@ -1,6 +1,6 @@
 # UK Housing Trends Analysis
 
-This repo contains the working files behind the analysis for this medium post: 
+This repo contains the working files behind the analysis for this medium post: https://medium.com/@martinkirov_66539/trends-in-uk-house-sales-8965591db99d?sk=54fe90475799f4d8eb05cc6375763bac
 
 ### Libraries Used
 In the attached Jupyter notebook, I use python3.7 and the following modules: *matplotlib, seaborn, numpy* and *pandas*. 
