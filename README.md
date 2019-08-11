@@ -23,7 +23,7 @@ Apartments are the most popular residential property type in the UK at the momen
 London skews the figures the most - the median property is times higher than the median in the rest of the country and the sales volumes follow completely different trends. 
 
 ##### Acknowledgement 
-I want to thank Udacity for their expertly collated Data Science nanodegree, my employer for putting me through the programme and my ex-manager Neil Anderson, who gave me the property bug during the 8 month secondment within his team.
+I want to thank Udacity for their expertly collated Data Science nanodegree, my employer for putting me through the programme and my ex-manager Neil, who gave me the property bug during the 8 month secondment within his team.
 
 ### Download Links
 ##### General Link to HM Land Registry: https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads
